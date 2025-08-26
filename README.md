@@ -5,6 +5,11 @@ Run all code
 make
 ```
 
+Check for memory leaks
+```bash
+make mem-check
+```
+
 Run all tests
 ```bash
 make test
