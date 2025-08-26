@@ -1,5 +1,3 @@
-### Code for The C Programming Language 2nd Edition By Kernighan and Ritchie
-
 #### Running
 
 Run all code
